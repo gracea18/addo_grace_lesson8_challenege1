@@ -1,2 +1,2 @@
 while True:
-    print(input.temperature(TemperatureUnit.FAHRENHEIT))
+    print((input.light_level()) - 19)
